@@ -224,6 +224,8 @@ shortcuts: [{
 }]
 ```
 
+### Table
+- `Table` 实例的 `selection` 属性废弃了，不能再使用 `this.$refs.elTable.selection` 获取多选的结果。
 ## Sentry
 如果项目中使用了 [Sentry](https://www.npmjs.com/package/@sentry/vue)， 需要更改一下初始化的配置，即把参数 `Vue` 改为参数 `app`:
 ```diff
