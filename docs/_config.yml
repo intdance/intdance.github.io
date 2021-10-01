@@ -36,6 +36,7 @@ show_excerpts: true
 excerpt_separator:  '<!-- more -->' #文章摘要
 
 baidu_analytics: true
+giscus_comments: true
 markdown: kramdown
 kramdown:
   html_to_native: false
