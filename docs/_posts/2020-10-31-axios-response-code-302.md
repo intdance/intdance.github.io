@@ -74,6 +74,5 @@ Nice！ 非常简单~
 - 307: Temporary Redirect
 - 308: Permanent Redirect
 
-有关代码可以在[github](https://github.com/zhuqingguang/playground/tree/master/ajax-process-302)可以查看。
 
 有任何问题，欢迎讨论~

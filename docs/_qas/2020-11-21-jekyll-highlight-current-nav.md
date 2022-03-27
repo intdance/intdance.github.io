@@ -54,4 +54,4 @@ nav: "/qas/"
 {%- endfor -%}
 ```
 
-具体使用可参考[实际代码](https://github.com/zhuqingguang/intdance.github.io/blob/gh-pages/docs/_includes/header.html)
+具体使用可参考[实际代码](https://github.com/intdance/intdance.github.io/blob/gh-pages/docs/_includes/header.html)

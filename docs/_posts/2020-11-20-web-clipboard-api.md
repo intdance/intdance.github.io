@@ -13,7 +13,7 @@ categories: [ "Web API" ]
 <!-- more -->
 
 本文的示例页面: [Clipboard API demo](http://demo.aining.online/web-demo/clipboard){:target="_blank"}
-代码地址: [Github](https://github.com/zhuqingguang/vue3-playground/blob/master/src/modules/web-demo/clipboard/index.vue){:target="_blank"}
+
 ## Clipboard API 的能力
 
 **Clipboard API** 是干什么的呢？

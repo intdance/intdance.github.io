@@ -195,8 +195,6 @@ npm start
 
 接下来我们就可以在 `src` 文件里面写我们的具体代码了！
 
-**注：** 本文的 demo 代码可以在 [github](https://github.com/zhuqingguang/playground/tree/master/typescript-cli) 上查看。为了避免创建很多仓库，我将其放到了一个仓库的子目录里面。
-
 ## 总结
 使用 TypeScript 开发 Nodejs 命令行的流程如下：
 1. 安装 typescript 并进行配置；
