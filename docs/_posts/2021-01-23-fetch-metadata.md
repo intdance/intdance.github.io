@@ -85,4 +85,4 @@ Fetch Metadata 是一个新特性，只有较新版本的浏览器才会支持�
 
 以上就是 Fetch Metadata 的全部内容了，感谢各位阅读，如果有任何疑问，欢迎电子邮件留言。
 
-转载请注明来源[Fetch Metadata 介绍](https://zhuqingguang.github.io/2021/01/23/fetch-metadata/)
+转载请注明来源[Fetch Metadata 介绍](https://intdance.github.io/2021/01/23/fetch-metadata/)

@@ -398,4 +398,4 @@ export default {
 
 以上就是本文的全部内容了，感谢各位阅读，如果有任何疑问，欢迎电子邮件留言。
 
-转载请注明来源[从 Vue 源码学 provide/inject](https://zhuqingguang.github.io/2021/02/04/vue-source-code-provide-injection/)
+转载请注明来源[从 Vue 源码学 provide/inject](https://intdance.github.io/2021/02/04/vue-source-code-provide-injection/)
